@@ -1,0 +1,8 @@
+{
+  "name": "PEA Académie",
+  "description": "Formation complète d'investissement en bourse exclusivement par le biais des ETF sur le support PEA",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
